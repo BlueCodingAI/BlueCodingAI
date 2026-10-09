@@ -1,498 +1,214 @@
-
-<!-- =========================================================
-     BLUECODINGAI | GITHUB PROFILE README
-     Senior AI & Software Engineer | Full-Stack Developer
-     ========================================================= -->
+<!-- BLUE • Senior AI & Software Engineer • GitHub Profile README -->
+<!-- Create a public repository named BlueCodingAI and save this as README.md -->
 
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,20,24,30&text=BLUE&fontSize=85&fontColor=ffffff&fontAlignY=38&desc=AI%20ENGINEER%20%E2%80%A2%20SOFTWARE%20ARCHITECT%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descSize=17&descAlignY=61&animation=twinkling" alt="BLUE — AI Engineer and Full-Stack Developer" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1D4ED8,100:38BDF8&height=230&section=header&text=BLUE%20CODING%20AI&fontSize=53&fontColor=FFFFFF&fontAlignY=37&desc=Engineering%20Intelligent%20Software%20Solutions&descSize=19&descAlignY=60&animation=fadeIn" alt="Blue Coding AI Banner"/>
+  <a href="https://github.com/BlueCodingAI">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=850&color=22D3EE&center=true&vCenter=true&width=900&height=70&lines=Senior+AI+%26+Software+Engineer;Full-Stack+Developer+%7C+System+Architect;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents+%E2%80%A2+Automation;Building+the+next+generation+of+intelligent+software" alt="Animated engineering specialties" />
+  </a>
 
-# Hi, I'm Bohdan 👋
+  <p><strong>Crafting intelligent products. Engineering reliable systems. Turning ambitious ideas into production-ready software.</strong></p>
 
-### Senior AI & Software Engineer | Full-Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=1100&color=38BDF8&center=true&vCenter=true&width=850&height=65&lines=Senior+AI+%26+Software+Engineer;Full-Stack+Developer+%26+Solution+Architect;LLM+%7C+RAG+%7C+AI+Agents+%7C+Automation;Building+Scalable+SaaS+%26+Cloud+Systems;Transforming+Complex+Ideas+Into+Real+Products" alt="Animated professional introduction"/>
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-BlueCodingAI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlueCodingAI)
-[![Profile Views](https://komarev.com/ghpvc/?username=BlueCodingAI&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)](https://github.com/BlueCodingAI)
-![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Software%20Engineering-0F172A?style=for-the-badge)
-![Open to Collaboration](https://img.shields.io/badge/Collaboration-Welcome-059669?style=for-the-badge)
-
-<br/>
-
-**Artificial Intelligence · Software Architecture · Full-Stack Engineering · Intelligent Automation**
-
+  <a href="https://github.com/BlueCodingAI?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
+  <a href="https://github.com/BlueCodingAI"><img src="https://img.shields.io/badge/Connect-on%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=BlueCodingAI&style=for-the-badge&label=PROFILE%20VIEWS&color=0891b2" alt="Profile views" />
 </div>
 
----
+<br />
 
-## 👨‍💻 About Me
+## `01` / About BLUE
 
-I'm **Bohdan**, a **Senior AI & Software Engineer** specializing in designing and developing intelligent, scalable, and production-oriented software solutions.
-
-My expertise spans **AI-powered applications, LLM integrations, autonomous AI agents, full-stack SaaS platforms, cloud infrastructure, and business process automation**.
-
-I enjoy solving challenging engineering problems, translating complex business requirements into elegant technical solutions, and building products that deliver real-world value.
-
-My approach combines strong software engineering fundamentals with modern AI capabilities, clean architecture, maintainable code, and practical product thinking.
-
-### 🎯 What I Do
-
-- 🤖 **AI Engineering:** LLM applications, RAG systems, AI agents, conversational AI, and intelligent assistants.
-- 🧠 **Machine Learning:** Deep learning, computer vision, NLP, predictive analytics, and generative AI.
-- 🌐 **Full-Stack Development:** Modern web applications, backend services, APIs, dashboards, and scalable SaaS platforms.
-- ⚙️ **Intelligent Automation:** Workflow orchestration, API integrations, data processing, scraping, and business automation.
-- 🏗️ **Software Architecture:** Distributed services, database design, authentication, performance, and maintainable system design.
-- ☁️ **Cloud & DevOps:** Docker, CI/CD pipelines, cloud deployments, monitoring, and infrastructure automation.
-- 🔐 **Security & Reliability:** Secure authentication, access control, API security, testing, and resilient application development.
-
-> **My engineering philosophy:** Build systems that are intelligent by design, reliable in production, and simple to evolve.
-
----
-
-## 🚀 Core Engineering Expertise
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 AI & Intelligent Systems
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Autonomous & Multi-Agent Systems
-- AI Assistants & Conversational AI
-- Prompt Engineering & Evaluation
-- AI Workflow Orchestration
-- Semantic Search & Vector Databases
-- Machine Learning & Computer Vision
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Full-Stack Engineering
-
-- React, Next.js & TypeScript
-- Python, Node.js & C#
-- RESTful APIs & WebSockets
-- FastAPI, Django & ASP.NET Core
-- PostgreSQL, MySQL & MongoDB
-- Authentication, JWT & RBAC
-- SaaS & Multi-Tenant Architecture
-- Performance & Scalability
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Automation & Integration
-
-- Python Automation
-- Browser & Workflow Automation
-- Third-Party API Integrations
-- Data Extraction & ETL Pipelines
-- Business Process Automation
-- AI-Powered Productivity Tools
-- Event-Driven Workflows
-- Scheduled Background Processing
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ Cloud & Infrastructure
-
-- AWS & Azure
-- Docker & Containerization
-- Linux & Server Administration
-- CI/CD & GitHub Actions
-- Nginx & Reverse Proxies
-- Cloud Application Deployment
-- Monitoring & Troubleshooting
-- System Reliability
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs,cpp,java,php,html,css,sql&theme=dark&perline=10" alt="Programming languages"/>
-
-<br/>
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,bootstrap,redux,materialui&theme=dark&perline=8" alt="Frontend technologies"/>
-
-<br/>
-
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,dotnet,laravel,graphql&theme=dark&perline=8" alt="Backend technologies"/>
-
-<br/>
-
-### AI, Machine Learning & Data Science
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda&theme=dark&perline=8" alt="AI and machine learning tools"/>
-
-<br/>
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-2563EB?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge)
-![LLMOps](https://img.shields.io/badge/LLMOps-0891B2?style=for-the-badge)
-
-<br/>
-
-### Databases & Storage
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,firebase&theme=dark&perline=7" alt="Database technologies"/>
-
-<br/>
-
-### Cloud, DevOps & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,linux,nginx,vercel,git,github&theme=dark&perline=10" alt="DevOps and cloud tools"/>
-
-<br/>
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,github,gitlab,bash,powershell&theme=dark&perline=8" alt="Development tools"/>
-
-</div>
-
----
-
-## 🤖 AI Engineering & LLM Development
-
-I design AI-powered systems that connect advanced language models with real-world data, APIs, and business workflows.
-
-| Engineering Area | Technologies & Capabilities |
-|:---|:---|
-| **LLM Applications** | OpenAI API, Claude, Gemini, Qwen, local LLM inference |
-| **AI Agents** | Tool calling, multi-step reasoning workflows, agent orchestration |
-| **Knowledge Systems** | RAG, semantic search, embeddings, document ingestion |
-| **AI Frameworks** | LangChain, custom LLM pipelines, agent frameworks |
-| **Vector Search** | Pinecone, Milvus, PostgreSQL / pgvector |
-| **Generative AI** | Text generation, image generation, multimodal AI workflows |
-| **Computer Vision** | OpenCV, deep learning, image processing |
-| **AI Deployment** | FastAPI, Docker, GPU inference, model serving |
-| **AI Quality** | Prompt evaluation, output validation, guardrails, observability |
-
-### AI System Design
-
-```text
-                    ┌─────────────────────┐
-                    │   Client / User     │
-                    └──────────┬──────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │  Web / Mobile App   │
-                    │  React / Next.js    │
-                    └──────────┬──────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │   Backend API       │
-                    │ Python / Node.js    │
-                    └──────────┬──────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │  AI Orchestration   │
-                    │ Agents / Workflows  │
-                    └──────────┬──────────┘
-                               │
-                 ┌─────────────┼──────────────┐
-                 │             │              │
-           ┌─────▼─────┐ ┌─────▼─────┐ ┌──────▼─────┐
-           │  LLM APIs │ │ RAG Layer │ │ Tool / API  │
-           │ & Models  │ │  Search   │ │ Integration │
-           └───────────┘ └─────┬─────┘ └────────────┘
-                               │
-                         ┌─────▼─────┐
-                         │ Knowledge │
-                         │ & Vector  │
-                         │  Storage  │
-                         └───────────┘
+```typescript
+const BLUE = {
+  role: "Senior AI & Software Engineer | Full-Stack Developer",
+  focus: ["AI Products", "LLM Systems", "Scalable SaaS", "Automation"],
+  mindset: "Design thoughtfully. Build reliably. Keep improving.",
+  currentlyExploring: ["AI Agents", "RAG", "LLM Infrastructure"],
+  mission: "Make complex technology useful, elegant, and dependable."
+};
 ```
 
-**Engineering priorities:** Accuracy · Security · Performance · Observability · Maintainability · Scalability
+I build **AI-driven applications and full-stack products**—from initial system design to APIs, user experiences, deployment, and continuous improvement. My work brings together **modern software engineering**, **intelligent automation**, and **pragmatic product architecture**.
+
+- 🧠 **AI engineering:** LLM integration, retrieval-augmented generation, AI assistants, agents, and inference workflows.
+- 🏗️ **Software architecture:** maintainable services, API design, authentication, data modeling, and scalable systems.
+- 🌐 **Full-stack development:** responsive interfaces, backend engineering, SaaS platforms, and real-time features.
+- ⚙️ **Automation:** Python workflows, integrations, data pipelines, and process optimization.
+- ☁️ **Delivery:** cloud infrastructure, containers, CI/CD, testing, and observability.
+
+> **Engineering principle:** Powerful software should be as thoughtful behind the scenes as it is effortless to use.
 
 ---
 
-## 🌟 Selected Projects
-
-A selection of repositories representing my interests and work across AI applications, real-time systems, machine learning, and software engineering.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 BlueChat
-
-**Real-Time Messaging Platform**
-
-A full-stack messaging application featuring real-time communication, authenticated users, and responsive interfaces.
-
-**Technology:**
-React · TypeScript · Express · Socket.IO · PostgreSQL · Prisma
-
-**Highlights:**
-- Real-time WebSocket messaging
-- JWT authentication
-- Direct conversations
-- User profiles and search
-- Docker-based local database setup
-
-[**Explore Repository →**](https://github.com/BlueCodingAI/BlueChat)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AdmissionBot
-
-**AI-Powered Admission Assistant**
-
-A conversational AI web demo designed to answer admission-related questions using source documents.
-
-**Technology:**
-Next.js · TypeScript · OpenAI · RAG · Speech-to-Text · TTS
-
-**Highlights:**
-- AI-powered question answering
-- Document-based knowledge retrieval
-- Conversational chat interface
-- Voice input and output
-- Full-stack AI integration
-
-[**Explore Repository →**](https://github.com/BlueCodingAI/AdmissionBot)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Qwen Stack
-
-**LLM Infrastructure & Experimentation**
-
-Repository focused on Qwen-related AI infrastructure and development.
-
-**Focus Areas:**
-- LLM integration
-- Model deployment workflows
-- AI development infrastructure
-- Local and hosted model experimentation
-
-[**Explore Repository →**](https://github.com/BlueCodingAI/Qwen-Stack)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 CartoonGAN
-
-**Generative AI & Computer Vision**
-
-A TensorFlow-based CartoonGAN codebase demonstrating neural image stylization and generative image processing.
-
-**Technology:**
-Python · TensorFlow · Deep Learning · GANs
-
-**Focus Areas:**
-- Image-to-image translation
-- Generative adversarial networks
-- Neural style transformation
-- Computer vision experimentation
-
-[**Explore Repository →**](https://github.com/BlueCodingAI/CartoonGan-tensorflow)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Financial Data Analysis
-
-**Data Analytics & Engineering**
-
-Repository exploring financial data analysis and data-driven software workflows.
-
-**Focus Areas:**
-- Data processing
-- Financial datasets
-- Analytical workflows
-- Reporting and insights
-
-[**Explore Repository →**](https://github.com/BlueCodingAI/Financial_Data_Analysis)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ Job Application Tracking System
-
-**Business Application Development**
-
-Repository for a job application tracking system, representing business-oriented application development.
-
-**Focus Areas:**
-- Application workflows
-- Data organization
-- Business software
-- Process management
-
-[**Explore Repository →**](https://github.com/BlueCodingAI/Job_Applicantion_Tracking_System)
-
-</td>
-</tr>
-</table>
+## `02` / Technology Universe
 
 <div align="center">
 
-### Explore More Projects
+**Languages & Core Engineering**
 
-[![All Repositories](https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlueCodingAI?tab=repositories)
+<img src="https://skillicons.dev/icons?i=python,ts,js,cs,cpp,php&theme=dark" alt="Python, TypeScript, JavaScript, C Sharp, C++, PHP" />
+
+**Frontend & Product Experience**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,figma&theme=dark" alt="Frontend and interface tools" />
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,dotnet,graphql&theme=dark" alt="Backend technologies" />
+
+**AI, ML & Data**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda&theme=dark" alt="AI and machine learning technologies" />
+
+<br />
+
+<img src="https://img.shields.io/badge/LLMs-0F172A?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
+<img src="https://img.shields.io/badge/RAG-0E7490?style=flat-square" alt="RAG" />
+<img src="https://img.shields.io/badge/AI%20Agents-4338CA?style=flat-square" alt="AI Agents" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Ollama-111827?style=flat-square" alt="Ollama" />
+<img src="https://img.shields.io/badge/Vector%20Search-155E75?style=flat-square" alt="Vector Search" />
+
+**Databases, Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,aws,azure,docker,githubactions,linux,nginx,git&theme=dark&perline=13" alt="Databases, cloud, and developer operations technologies" />
 
 </div>
 
 ---
 
-## 🏗️ Engineering Principles
+## `03` / What I Engineer
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 🎯
-**Product-Driven**
+### 🤖 Intelligent AI Products
 
-Solving meaningful problems with practical engineering solutions.
-
-</td>
-<td align="center" width="25%">
-
-### 🧩
-**Clean Architecture**
-
-Modular, maintainable systems designed for long-term evolution.
+LLM applications · RAG pipelines · Agentic workflows · Conversational AI · Model APIs · Semantic search
 
 </td>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 🔒
-**Security First**
+### 🌐 Modern Full-Stack Platforms
 
-Secure-by-design implementation and thoughtful risk management.
+React & Next.js · Secure APIs · SaaS architecture · Real-time apps · Authentication · Database design
 
 </td>
-<td align="center" width="25%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🚀
-**Scalability**
+### ⚡ Automation & Integrations
 
-Reliable systems designed to grow with real product requirements.
+Python automation · External APIs · ETL · Event-driven systems · Data workflows · Operational tooling
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Production Engineering
+
+Docker · Cloud deployment · CI/CD · Performance · Monitoring · Maintainable architecture
 
 </td>
 </tr>
 </table>
 
-### My Development Workflow
+---
 
-```text
-    Discover & Analyze
-            │
-            ▼
-   Design Architecture
-            │
-            ▼
-  Develop & Integrate
-            │
-            ▼
-     Test & Validate
-            │
-            ▼
-    Deploy & Monitor
-            │
-            ▼
-    Optimize & Evolve
+## `04` / Featured Work
+
+<!-- Featured work links point to actual public repositories. Descriptions are kept within verified scope. -->
+
+<div align="center">
+  <a href="https://github.com/BlueCodingAI/BlueChat">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BlueCodingAI&repo=BlueChat&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=60A5FA" alt="BlueChat GitHub repository" />
+  </a>
+  <a href="https://github.com/BlueCodingAI/AdmissionBot">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BlueCodingAI&repo=AdmissionBot&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=60A5FA" alt="AdmissionBot GitHub repository" />
+  </a>
+  <a href="https://github.com/BlueCodingAI/Qwen-Stack">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BlueCodingAI&repo=Qwen-Stack&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=60A5FA" alt="Qwen-Stack GitHub repository" />
+  </a>
+  <a href="https://github.com/BlueCodingAI/Financial_Data_Analysis">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BlueCodingAI&repo=Financial_Data_Analysis&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=60A5FA" alt="Financial Data Analysis GitHub repository" />
+  </a>
+</div>
+
+| Project | Engineering highlight | Stack / focus |
+|:--|:--|:--|
+| [**BlueChat**](https://github.com/BlueCodingAI/BlueChat) | Real-time messaging, JWT authentication, user search, direct conversations | React, Express, Socket.IO, Prisma, PostgreSQL |
+| [**AdmissionBot**](https://github.com/BlueCodingAI/AdmissionBot) | Document-grounded admissions assistant with chat and voice interaction | Next.js, TypeScript, OpenAI, RAG, TTS |
+| [**Qwen-Stack**](https://github.com/BlueCodingAI/Qwen-Stack) | Repository for Qwen-focused development and infrastructure | LLM experimentation |
+| [**Financial Data Analysis**](https://github.com/BlueCodingAI/Financial_Data_Analysis) | Financial-data-focused analysis repository | Data analysis |
+| [**Job Application Tracking System**](https://github.com/BlueCodingAI/Job_Applicantion_Tracking_System) | Business application workflow repository | Application engineering |
+
+<div align="center">
+  <a href="https://github.com/BlueCodingAI?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a>
+</div>
+
+---
+
+## `05` / From Idea to Production
+
+```mermaid
+graph LR
+    A[Discover] --> B[Architect]
+    B --> C[Build]
+    C --> D[Test]
+    D --> E[Deploy]
+    E --> F[Observe]
+    F --> G[Improve]
+    G -.-> B
 ```
 
-I value **clear communication, thoughtful technical decisions, automated testing, measurable performance, and continuous improvement** throughout the software development lifecycle.
+**How I think:** start with the problem, choose the smallest robust architecture, validate assumptions early, make trade-offs explicit, and prioritize security, performance, and maintainability.
 
 ---
 
-## 📈 GitHub Analytics
+## `06` / GitHub Pulse
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BlueCodingAI&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=3B82F6&text_color=E2E8F0&include_all_commits=true&count_private=false" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueCodingAI&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&langs_count=8" alt="Most used languages"/>
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=BlueCodingAI&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=3B82F6&currStreakLabel=38BDF8" alt="GitHub contribution streak"/>
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=BlueCodingAI&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true" alt="GitHub contribution activity graph"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BlueCodingAI&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=60A5FA&text_color=CBD5E1" alt="BLUE GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueCodingAI&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1" alt="BLUE most used GitHub languages" />
+  <br />
+  <img width="70%" src="https://streak-stats.demolab.com?user=BlueCodingAI&theme=github-dark-blue&hide_border=true&background=0D1117&ring=22D3EE&fire=60A5FA&currStreakLabel=22D3EE" alt="BLUE GitHub contribution streak" />
+  <br />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BlueCodingAI&bg_color=0D1117&color=22D3EE&line=2563EB&point=FFFFFF&area=true&area_color=1E40AF&hide_border=true" alt="BLUE GitHub activity graph" />
 </div>
 
 ---
 
-## 💡 Areas of Interest
+## `07` / Current Focus
 
 <div align="center">
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-0F172A?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-1D4ED8?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG_Systems-0F172A?style=for-the-badge)
-![SaaS](https://img.shields.io/badge/SaaS_Architecture-1D4ED8?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/Full_Stack-0F172A?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-1D4ED8?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud_Engineering-0F172A?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-1D4ED8?style=for-the-badge)
+![AI Engineering](https://img.shields.io/badge/AI%20ENGINEERING-020617?style=for-the-badge&logo=openai&logoColor=22D3EE)
+![AI Agents](https://img.shields.io/badge/AI%20AGENTS-1E3A8A?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20SYSTEMS-155E75?style=for-the-badge)
+![SaaS](https://img.shields.io/badge/SAAS%20PLATFORMS-0F172A?style=for-the-badge)
+![Automation](https://img.shields.io/badge/AUTOMATION-164E63?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/CLOUD%20ARCHITECTURE-1E40AF?style=for-the-badge)
 
 </div>
 
-I'm particularly interested in the intersection of **AI, modern software architecture, and real-world automation** — where intelligent systems become practical, reliable tools that improve how people and businesses work.
+I'm particularly interested in the space where **advanced AI capabilities meet dependable real-world software**: practical agents, high-quality retrieval, scalable backend systems, and automation that saves meaningful effort.
 
 ---
 
-## 🤝 Let's Connect & Collaborate
-
-I'm interested in connecting with engineers, founders, technical teams, and organizations working on meaningful software and AI challenges.
-
-Whether it's an intelligent AI product, a scalable SaaS platform, a complex integration, or a challenging engineering problem, I value opportunities to exchange ideas and create high-quality solutions.
-
 <div align="center">
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlueCodingAI)
+### Have something ambitious in mind?
 
-[![Discussions](https://img.shields.io/badge/Let's_Connect-On_GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlueCodingAI)
+**Let's turn it into software that works beautifully.**
 
-<br/>
+<a href="https://github.com/BlueCodingAI"><img src="https://img.shields.io/badge/CONNECT%20WITH%20BLUE-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Connect with BLUE" /></a>
 
-### Building the Future, One Intelligent System at a Time.
+<br /><br />
 
-**AI Engineering | Full-Stack Development | Scalable Software Architecture**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=67E8F9&center=true&vCenter=true&width=720&lines=Think+boldly.+Architect+carefully.+Build+brilliantly.;AI+%2B+Engineering+%2B+Imagination+%3D+Impact." alt="Animated closing motto" />
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:020617&height=120&section=footer" width="100%" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=12,14,20,24,30" alt="Blue gradient footer" />
 
 </div>
