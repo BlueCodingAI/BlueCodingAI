@@ -175,7 +175,7 @@ graph LR
   <br />
   <img width="70%" src="https://streak-stats.demolab.com?user=BlueCodingAI&theme=github-dark-blue&hide_border=true&background=0D1117&ring=22D3EE&fire=60A5FA&currStreakLabel=22D3EE" alt="BLUE GitHub contribution streak" />
   <br />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BlueCodingAI&bg_color=0D1117&color=22D3EE&line=2563EB&point=FFFFFF&area=true&area_color=1E40AF&hide_border=true" alt="BLUE GitHub activity graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlueCodingAI&theme=github_dark&name=BLUE&animation=load&duration=3" alt="BLUE GitHub contribution overview" />
 </div>
 
 ---
