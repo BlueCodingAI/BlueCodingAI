@@ -199,15 +199,30 @@ I'm particularly interested in the space where **advanced AI capabilities meet d
 
 <div align="center">
 
+## `08` / Connect With BLUE
+
 ### Have something ambitious in mind?
 
 **Let's turn it into software that works beautifully.**
 
-<a href="https://github.com/BlueCodingAI"><img src="https://img.shields.io/badge/CONNECT%20WITH%20BLUE-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Connect with BLUE" /></a>
+<p>Available for collaborations, innovative products, and challenging engineering projects.</p>
+
+<a href="https://github.com/BlueCodingAI"><img src="https://img.shields.io/badge/GITHUB-BlueCodingAI-111827?style=for-the-badge&logo=github&logoColor=white" alt="BLUE on GitHub" /></a>
+<a href="mailto:bluewonder0929@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email BLUE" /></a>
+<a href="https://t.me/blueW09"><img src="https://img.shields.io/badge/TELEGRAM-@blueW09-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="BLUE on Telegram" /></a>
+
+<br />
+
+<a href="https://discord.com/app"><img src="https://img.shields.io/badge/DISCORD-blue99__0929-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Find BLUE on Discord: blue99_0929" /></a>
+<a href="https://wa.me/15404436640"><img src="https://img.shields.io/badge/WHATSAPP-Message%20BLUE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Message BLUE on WhatsApp" /></a>
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=67E8F9&center=true&vCenter=true&width=720&lines=Think+boldly.+Architect+carefully.+Build+brilliantly.;AI+%2B+Engineering+%2B+Imagination+%3D+Impact." alt="Animated closing motto" />
+<sub>Discord: <code>blue99_0929</code> · Email: <a href="mailto:bluewonder0929@gmail.com">bluewonder0929@gmail.com</a></sub>
+
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1400&duration=3800&color=67E8F9&center=true&vCenter=true&width=650&height=36&lines=Think+boldly.+Architect+carefully.;Build+brilliantly.;AI+%2B+Engineering+%2B+Imagination+%3D+Impact." alt="Animated BLUE engineering motto" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=12,14,20,24,30" alt="Blue gradient footer" />
 
