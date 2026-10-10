@@ -12,7 +12,6 @@
 
   <a href="https://github.com/BlueCodingAI?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
   <a href="https://github.com/BlueCodingAI"><img src="https://img.shields.io/badge/Connect-on%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=BlueCodingAI&style=for-the-badge&label=PROFILE%20VIEWS&color=0891b2" alt="Profile views" />
 </div>
 
 <br />
@@ -121,19 +120,11 @@ Docker · Cloud deployment · CI/CD · Performance · Monitoring · Maintainable
 
 <!-- Featured work links point to actual public repositories. Descriptions are kept within verified scope. -->
 
+<!-- Stable GitHub-native repository links instead of externally rendered pin cards. -->
 <div align="center">
-  <a href="https://github.com/BlueCodingAI/BlueChat">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BlueCodingAI&repo=BlueChat&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=60A5FA" alt="BlueChat GitHub repository" />
-  </a>
-  <a href="https://github.com/BlueCodingAI/AdmissionBot">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BlueCodingAI&repo=AdmissionBot&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=60A5FA" alt="AdmissionBot GitHub repository" />
-  </a>
-  <a href="https://github.com/BlueCodingAI/Qwen-Stack">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BlueCodingAI&repo=Qwen-Stack&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=60A5FA" alt="Qwen-Stack GitHub repository" />
-  </a>
-  <a href="https://github.com/BlueCodingAI/Financial_Data_Analysis">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BlueCodingAI&repo=Financial_Data_Analysis&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=60A5FA" alt="Financial Data Analysis GitHub repository" />
-  </a>
+
+[**💬 BLUECHAT**](https://github.com/BlueCodingAI/BlueChat) &nbsp; • &nbsp; [**🤖 ADMISSIONBOT**](https://github.com/BlueCodingAI/AdmissionBot) &nbsp; • &nbsp; [**🧠 QWEN-STACK**](https://github.com/BlueCodingAI/Qwen-Stack)
+
 </div>
 
 | Project | Engineering highlight | Stack / focus |
@@ -170,13 +161,18 @@ graph LR
 ## `06` / GitHub Pulse
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BlueCodingAI&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=60A5FA&text_color=CBD5E1" alt="BLUE GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueCodingAI&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1" alt="BLUE most used GitHub languages" />
-  <br />
-  <img width="70%" src="https://streak-stats.demolab.com?user=BlueCodingAI&theme=github-dark-blue&hide_border=true&background=0D1117&ring=22D3EE&fire=60A5FA&currStreakLabel=22D3EE" alt="BLUE GitHub contribution streak" />
-  <br />
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlueCodingAI&theme=github_dark&name=BLUE&animation=load&duration=3" alt="BLUE GitHub contribution overview" />
+
+### ⚡ Code, experiments, and continuous learning
+
+**Explore the real contribution graph directly on GitHub.** Unlike third-party stats images, this link continues to work even when an external graphics service is down.
+
+[![GitHub Profile](https://img.shields.io/badge/OPEN%20GITHUB%20PROFILE-BlueCodingAI-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlueCodingAI)
+
+[**📊 View contributions and activity →**](https://github.com/BlueCodingAI?tab=overview) &nbsp; • &nbsp; [**📁 Browse repositories →**](https://github.com/BlueCodingAI?tab=repositories)
+
 </div>
+
+> **Why no live stats images?** Third-party GitHub cards, view counters, and activity graphs can fail and display broken-image placeholders. The profile links above remain readable and functional without them.
 
 ---
 
@@ -222,7 +218,7 @@ I'm particularly interested in the space where **advanced AI capabilities meet d
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1400&duration=3800&color=67E8F9&center=true&vCenter=true&width=650&height=36&lines=Think+boldly.+Architect+carefully.;Build+brilliantly.;AI+%2B+Engineering+%2B+Imagination+%3D+Impact." alt="Animated BLUE engineering motto" />
+**`Think boldly. Architect carefully. Build brilliantly.`**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=12,14,20,24,30" alt="Blue gradient footer" />
 
