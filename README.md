@@ -1,180 +1,170 @@
-<!-- BLUE • Senior AI & Software Engineer • GitHub Profile README -->
-<!-- Create a public repository named BlueCodingAI and save this as README.md -->
+<!--
+  BLUE · GitHub profile README
+  Repo: github.com/BlueCodingAI/BlueCodingAI  (repo name must match your username)
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,20,24,30&text=BLUE&fontSize=85&fontColor=ffffff&fontAlignY=38&desc=AI%20ENGINEER%20%E2%80%A2%20SOFTWARE%20ARCHITECT%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descSize=17&descAlignY=61&animation=twinkling" alt="BLUE — AI Engineer and Full-Stack Developer" />
-
-  <a href="https://github.com/BlueCodingAI">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=850&color=22D3EE&center=true&vCenter=true&width=900&height=70&lines=Senior+AI+%26+Software+Engineer;Full-Stack+Developer+%7C+System+Architect;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents+%E2%80%A2+Automation;Building+the+next+generation+of+intelligent+software" alt="Animated engineering specialties" />
-  </a>
-
-  <p><strong>Crafting intelligent products. Engineering reliable systems. Turning ambitious ideas into production-ready software.</strong></p>
-
-  <a href="https://github.com/BlueCodingAI?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
-  <a href="https://github.com/BlueCodingAI"><img src="https://img.shields.io/badge/Connect-on%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
-</div>
-
-<br />
-
-## `01` / About BLUE
-
-```typescript
-const BLUE = {
-  role: "Senior AI & Software Engineer | Full-Stack Developer",
-  focus: ["AI Products", "LLM Systems", "Scalable SaaS", "Automation"],
-  mindset: "Design thoughtfully. Build reliably. Keep improving.",
-  currentlyExploring: ["AI Agents", "RAG", "LLM Infrastructure"],
-  mission: "Make complex technology useful, elegant, and dependable."
-};
-```
-
-I build **AI-driven applications and full-stack products**—from initial system design to APIs, user experiences, deployment, and continuous improvement. My work brings together **modern software engineering**, **intelligent automation**, and **pragmatic product architecture**.
-
-- 🧠 **AI engineering:** LLM integration, retrieval-augmented generation, AI assistants, agents, and inference workflows.
-- 🏗️ **Software architecture:** maintainable services, API design, authentication, data modeling, and scalable systems.
-- 🌐 **Full-stack development:** responsive interfaces, backend engineering, SaaS platforms, and real-time features.
-- ⚙️ **Automation:** Python workflows, integrations, data pipelines, and process optimization.
-- ☁️ **Delivery:** cloud infrastructure, containers, CI/CD, testing, and observability.
-
-> **Engineering principle:** Powerful software should be as thoughtful behind the scenes as it is effortless to use.
-
----
-
-## `02` / Technology Universe
+  Files in this repo:
+    README.md                      ← this page
+    assets/*.svg                   ← all animated graphics (plain SVG, hosted in this repo)
+    assets/projects/*.svg          ← project cards
+    .github/workflows/snake.yml    ← builds the contribution snake (run once from the Actions tab)
+-->
 
 <div align="center">
 
-**Languages & Core Engineering**
+<img src="./assets/hero.svg" width="100%" alt="BLUE — Senior AI & Software Engineer, Full-Stack Developer and System Architect. Open to collaborations." />
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,cs,cpp,php&theme=dark" alt="Python, TypeScript, JavaScript, C Sharp, C++, PHP" />
+<p>
+  <a href="#01--about"><b>About</b></a> &nbsp;·&nbsp;
+  <a href="#02--tech-stack"><b>Stack</b></a> &nbsp;·&nbsp;
+  <a href="#03--what-i-build"><b>Services</b></a> &nbsp;·&nbsp;
+  <a href="#04--featured-work"><b>Projects</b></a> &nbsp;·&nbsp;
+  <a href="#05--how-i-work"><b>Process</b></a> &nbsp;·&nbsp;
+  <a href="#06--github-activity"><b>Activity</b></a> &nbsp;·&nbsp;
+  <a href="#08--lets-connect"><b>Contact</b></a>
+</p>
 
-**Frontend & Product Experience**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,figma&theme=dark" alt="Frontend and interface tools" />
-
-**Backend & APIs**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,dotnet,graphql&theme=dark" alt="Backend technologies" />
-
-**AI, ML & Data**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda&theme=dark" alt="AI and machine learning technologies" />
-
-<br />
-
-<img src="https://img.shields.io/badge/LLMs-0F172A?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
-<img src="https://img.shields.io/badge/RAG-0E7490?style=flat-square" alt="RAG" />
-<img src="https://img.shields.io/badge/AI%20Agents-4338CA?style=flat-square" alt="AI Agents" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/Ollama-111827?style=flat-square" alt="Ollama" />
-<img src="https://img.shields.io/badge/Vector%20Search-155E75?style=flat-square" alt="Vector Search" />
-
-**Databases, Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,aws,azure,docker,githubactions,linux,nginx,git&theme=dark&perline=13" alt="Databases, cloud, and developer operations technologies" />
+<a href="https://github.com/BlueCodingAI?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
+<a href="mailto:bluewonder0929@gmail.com"><img src="https://img.shields.io/badge/Start%20a%20Project-Email%20Me-0E7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email BLUE" /></a>
+<a href="https://t.me/blueW09"><img src="https://img.shields.io/badge/Chat-on%20Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Chat with BLUE on Telegram" /></a>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## `03` / What I Engineer
+## `01` / About
+
+<img src="./assets/terminal.svg" width="100%" alt="Terminal — whoami: BLUE, Senior AI & Software Engineer and Full-Stack Developer. Building AI products, LLM systems, scalable SaaS and automation. Exploring AI agents, RAG and LLM infrastructure. Mission: make complex technology useful, elegant, and dependable." />
+
+I build **AI-driven applications and full-stack products** — from the first system design to APIs, user experience, deployment and continuous improvement. My work brings together **modern software engineering**, **intelligent automation** and **pragmatic product architecture**.
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Intelligent AI Products
-
-LLM applications · RAG pipelines · Agentic workflows · Conversational AI · Model APIs · Semantic search
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Modern Full-Stack Platforms
-
-React & Next.js · Secure APIs · SaaS architecture · Real-time apps · Authentication · Database design
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ Automation & Integrations
-
-Python automation · External APIs · ETL · Event-driven systems · Data workflows · Operational tooling
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ Production Engineering
-
-Docker · Cloud deployment · CI/CD · Performance · Monitoring · Maintainable architecture
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      🧠 <b>AI engineering</b><br />
+      <sub>LLM integration, retrieval-augmented generation, AI assistants, agents and inference workflows.</sub>
+    </td>
+    <td width="50%" valign="top">
+      🏗️ <b>Software architecture</b><br />
+      <sub>Maintainable services, API design, authentication, data modeling and scalable systems.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      🌐 <b>Full-stack development</b><br />
+      <sub>Responsive interfaces, backend engineering, SaaS platforms and real-time features.</sub>
+    </td>
+    <td width="50%" valign="top">
+      ⚙️ <b>Automation</b><br />
+      <sub>Python workflows, integrations, data pipelines and process optimization.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      ☁️ <b>Delivery</b> &nbsp;—&nbsp; <sub>Cloud infrastructure, containers, CI/CD, testing and observability.</sub>
+    </td>
+  </tr>
 </table>
 
----
+> **Engineering principle:** powerful software should be as thoughtful behind the scenes as it is effortless to use.
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## `02` / Tech Stack
+
+<img src="./assets/ai-stack.svg" width="100%" alt="AI toolkit: LLMs, RAG, AI Agents, LangChain, Ollama, Vector Search" />
+
+<table>
+  <tr>
+    <td align="center" width="190"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,ts,js,cs,cpp,php&theme=dark" height="44" alt="Python, TypeScript, JavaScript, C#, C++, PHP" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,figma&theme=dark" height="44" alt="React, Next.js, Vue, Tailwind CSS, HTML, CSS, Figma" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend &amp; APIs</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,dotnet,graphql&theme=dark" height="44" alt="Node.js, Express, FastAPI, Django, Flask, .NET, GraphQL" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI · ML · Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda&theme=dark" height="44" alt="PyTorch, TensorFlow, OpenCV, scikit-learn, Anaconda" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase&theme=dark" height="44" alt="PostgreSQL, MySQL, MongoDB, Redis, Supabase, Firebase" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud &amp; DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,linux,nginx,git&theme=dark" height="44" alt="AWS, Azure, Docker, GitHub Actions, Linux, Nginx, Git" /></td>
+  </tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## `03` / What I Build
+
+<img src="./assets/capabilities.svg" width="100%" alt="Intelligent AI products: LLM applications, RAG pipelines, agentic workflows, conversational AI, model APIs, semantic search. Modern full-stack platforms: React and Next.js, secure APIs, SaaS architecture, real-time apps, authentication, database design. Automation and integrations: Python automation, external APIs, ETL, event-driven systems, data workflows, operational tooling. Production engineering: Docker, cloud deployment, CI/CD, performance, monitoring, maintainable architecture." />
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## `04` / Featured Work
 
-<!-- Featured work links point to actual public repositories. Descriptions are kept within verified scope. -->
-
-<!-- Stable GitHub-native repository links instead of externally rendered pin cards. -->
-<div align="center">
-
-[**💬 BLUECHAT**](https://github.com/BlueCodingAI/BlueChat) &nbsp; • &nbsp; [**🤖 ADMISSIONBOT**](https://github.com/BlueCodingAI/AdmissionBot) &nbsp; • &nbsp; [**🧠 QWEN-STACK**](https://github.com/BlueCodingAI/Qwen-Stack)
-
-</div>
-
-| Project | Engineering highlight | Stack / focus |
-|:--|:--|:--|
-| [**BlueChat**](https://github.com/BlueCodingAI/BlueChat) | Real-time messaging, JWT authentication, user search, direct conversations | React, Express, Socket.IO, Prisma, PostgreSQL |
-| [**AdmissionBot**](https://github.com/BlueCodingAI/AdmissionBot) | Document-grounded admissions assistant with chat and voice interaction | Next.js, TypeScript, OpenAI, RAG, TTS |
-| [**Qwen-Stack**](https://github.com/BlueCodingAI/Qwen-Stack) | Repository for Qwen-focused development and infrastructure | LLM experimentation |
-| [**Financial Data Analysis**](https://github.com/BlueCodingAI/Financial_Data_Analysis) | Financial-data-focused analysis repository | Data analysis |
-| [**Job Application Tracking System**](https://github.com/BlueCodingAI/Job_Applicantion_Tracking_System) | Business application workflow repository | Application engineering |
-
-<div align="center">
-  <a href="https://github.com/BlueCodingAI?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a>
-</div>
-
----
-
-## `05` / From Idea to Production
-
-```mermaid
-graph LR
-    A[Discover] --> B[Architect]
-    B --> C[Build]
-    C --> D[Test]
-    D --> E[Deploy]
-    E --> F[Observe]
-    F --> G[Improve]
-    G -.-> B
-```
-
-**How I think:** start with the problem, choose the smallest robust architecture, validate assumptions early, make trade-offs explicit, and prioritize security, performance, and maintainability.
-
----
-
-## `06` / GitHub Pulse
+<!-- Each card links to its public repository. Descriptions stay within what each repo shows. -->
 
 <div align="center">
 
-### ⚡ Code, experiments, and continuous learning
+<a href="https://github.com/BlueCodingAI/BlueChat"><img src="./assets/projects/bluechat.svg" width="49%" alt="BlueChat — real-time web chat with secure login, profile settings, username search, direct conversations and live WebSocket messaging. React, Vite, Express, Socket.IO, Prisma, PostgreSQL." /></a>
+<a href="https://github.com/BlueCodingAI/AdmissionBot"><img src="./assets/projects/admissionbot.svg" width="49%" alt="AdmissionBot — chat and voice assistant that answers admission questions grounded in the official CET brochure. Next.js, TypeScript, Tailwind, OpenAI, Whisper, TTS." /></a>
 
-**Explore the real contribution graph directly on GitHub.** Unlike third-party stats images, this link continues to work even when an external graphics service is down.
+<a href="https://github.com/BlueCodingAI/Qwen-Stack"><img src="./assets/projects/qwen-stack.svg" width="32.5%" alt="Qwen-Stack — Qwen-focused LLM development and infrastructure work." /></a>
+<a href="https://github.com/BlueCodingAI/Financial_Data_Analysis"><img src="./assets/projects/financial-data-analysis.svg" width="32.5%" alt="Financial Data Analysis — exploring and analysing financial datasets." /></a>
+<a href="https://github.com/BlueCodingAI/Job_Applicantion_Tracking_System"><img src="./assets/projects/job-tracking.svg" width="32.5%" alt="Job Application Tracking System — workflow application for tracking job applications." /></a>
 
-[![GitHub Profile](https://img.shields.io/badge/OPEN%20GITHUB%20PROFILE-BlueCodingAI-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlueCodingAI)
+<br />
 
-[**📊 View contributions and activity →**](https://github.com/BlueCodingAI?tab=overview) &nbsp; • &nbsp; [**📁 Browse repositories →**](https://github.com/BlueCodingAI?tab=repositories)
+<a href="https://github.com/BlueCodingAI?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a>
 
 </div>
 
-> **Why no live stats images?** Third-party GitHub cards, view counters, and activity graphs can fail and display broken-image placeholders. The profile links above remain readable and functional without them.
+<img src="./assets/divider.svg" width="100%" alt="" />
 
----
+## `05` / How I Work
+
+<img src="./assets/workflow.svg" width="100%" alt="From idea to production: Discover, Architect, Build, Test, Deploy, Observe, Improve — with a continuous improvement loop back to Architect." />
+
+<table>
+  <tr>
+    <td align="center" width="20%">🎯<br /><b>Problem first</b><br /><sub>Understand the real need before writing code</sub></td>
+    <td align="center" width="20%">🧱<br /><b>Smallest robust design</b><br /><sub>Simple architecture that can grow</sub></td>
+    <td align="center" width="20%">🧪<br /><b>Validate early</b><br /><sub>Test assumptions before they get expensive</sub></td>
+    <td align="center" width="20%">⚖️<br /><b>Explicit trade-offs</b><br /><sub>Clear reasons behind every decision</sub></td>
+    <td align="center" width="20%">🔐<br /><b>Built to last</b><br /><sub>Security, performance and maintainability</sub></td>
+  </tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## `06` / GitHub Activity
+
+<div align="center">
+
+<!-- Generated by .github/workflows/snake.yml from the real contribution graph. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlueCodingAI/BlueCodingAI/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BlueCodingAI/BlueCodingAI/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/BlueCodingAI/BlueCodingAI/output/snake-dark.svg" width="100%" alt="Animated snake eating BLUE's GitHub contribution graph" />
+</picture>
+
+<sub>My real contribution graph, redrawn twice a day by a GitHub Action in this repo.</sub>
+
+<br /><br />
+
+[**📊 Contributions & activity →**](https://github.com/BlueCodingAI?tab=overview) &nbsp; • &nbsp; [**📁 Browse repositories →**](https://github.com/BlueCodingAI?tab=repositories)
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## `07` / Current Focus
 
@@ -189,27 +179,24 @@ graph LR
 
 </div>
 
-I'm particularly interested in the space where **advanced AI capabilities meet dependable real-world software**: practical agents, high-quality retrieval, scalable backend systems, and automation that saves meaningful effort.
+I'm most interested in the space where **advanced AI capabilities meet dependable real-world software**: practical agents, high-quality retrieval, scalable backend systems and automation that saves meaningful effort.
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## `08` / Let's Connect
 
 <div align="center">
 
-## `08` / Connect With BLUE
-
 ### Have something ambitious in mind?
 
-**Let's turn it into software that works beautifully.**
-
-<p>Available for collaborations, innovative products, and challenging engineering projects.</p>
+**Let's turn it into software that works beautifully.**<br />
+<sub>Available for collaborations, innovative products and challenging engineering projects.</sub>
 
 <a href="https://github.com/BlueCodingAI"><img src="https://img.shields.io/badge/GITHUB-BlueCodingAI-111827?style=for-the-badge&logo=github&logoColor=white" alt="BLUE on GitHub" /></a>
 <a href="mailto:bluewonder0929@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email BLUE" /></a>
 <a href="https://t.me/blueW09"><img src="https://img.shields.io/badge/TELEGRAM-@blueW09-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="BLUE on Telegram" /></a>
-
-<br />
-
-<a href="https://discord.com/app"><img src="https://img.shields.io/badge/DISCORD-blue99__0929-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Find BLUE on Discord: blue99_0929" /></a>
+<!-- Tip: change this link to https://discord.com/users/YOUR_DISCORD_USER_ID so it opens your profile directly. -->
+<a href="https://discord.com/app"><img src="https://img.shields.io/badge/DISCORD-blue99__0929-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="BLUE on Discord: blue99_0929" /></a>
 <a href="https://wa.me/15404436640"><img src="https://img.shields.io/badge/WHATSAPP-Message%20BLUE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Message BLUE on WhatsApp" /></a>
 
 <br /><br />
@@ -218,8 +205,6 @@ I'm particularly interested in the space where **advanced AI capabilities meet d
 
 <br /><br />
 
-**`Think boldly. Architect carefully. Build brilliantly.`**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=12,14,20,24,30" alt="Blue gradient footer" />
+<img src="./assets/footer.svg" width="100%" alt="Think boldly. Architect carefully. Build brilliantly." />
 
 </div>
