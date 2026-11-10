@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="290" viewBox="0 0 400 290" role="img" aria-labelledby="t d">
+  <title id="t">Job Application Tracking — Business Workflow</title>
+  <desc id="d">Workflow application for tracking job applications. Stack: Workflows, Business apps.</desc>
+  <style>
+  
+  .pins{stroke-dasharray:3 3;animation:pins 1.4s linear infinite}
+  @keyframes pins{to{stroke-dashoffset:-12}}
+  .pulse{transform-box:fill-box;transform-origin:center;animation:pz 2.2s ease-in-out infinite}
+  @keyframes pz{0%,100%{transform:scale(.8);opacity:.7}50%{transform:scale(1.15);opacity:1}}
+  .lay1{animation:l1 3s ease-in-out infinite}.lay2{animation:l2 3s ease-in-out infinite}
+  @keyframes l1{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+  @keyframes l2{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+  .gear{transform-box:fill-box;transform-origin:center;animation:spin 6s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  .bolt{animation:flash 2.4s ease-in-out infinite}
+  @keyframes flash{0%,100%{opacity:.4}40%,60%{opacity:1}}
+  .up{animation:up 1.8s ease-in infinite}
+  @keyframes up{0%{transform:translateY(8px);opacity:0}30%{opacity:1}100%{transform:translateY(-10px);opacity:0}}
+  .dot{animation:dot 1.2s ease-in-out infinite}.d2{animation-delay:.2s}.d3{animation-delay:.4s}
+  @keyframes dot{0%,100%{opacity:.3;transform:translateY(0)}50%{opacity:1;transform:translateY(-2px)}}
+  .lvl{transform-box:fill-box;transform-origin:bottom;animation:lvl .9s ease-in-out infinite alternate}
+  @keyframes lvl{from{transform:scaleY(.25)}to{transform:scaleY(1)}}
+  .draw{stroke-dasharray:100;animation:draw 3.2s ease-in-out infinite}
+  @keyframes draw{0%{stroke-dashoffset:100}55%,85%{stroke-dashoffset:0}100%{stroke-dashoffset:-100}}
+  .move{animation:mv 4s ease-in-out infinite}
+  @keyframes mv{0%,15%{transform:translate(0,0)}40%,60%{transform:translate(16px,8px)}85%,100%{transform:translate(32px,22px)}}
+
+  
+  .orbit{transform-box:fill-box;transform-origin:center;animation:orb 3s linear infinite}
+  @keyframes orb{to{transform:rotate(360deg)}}
+  .arrow{animation:nudge 1.6s ease-in-out infinite}
+  @keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
+  .sheen{animation:sheen 7s ease-in-out infinite}
+  @keyframes sheen{0%,60%{transform:translateX(-400px)}100%{transform:translateX(400px)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050816"/><stop offset="1" stop-color="#0b1430"/></linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r="1"><stop offset="0" stop-color="#3b82f6" stop-opacity=".22"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".05"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <linearGradient id="wv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#6366f1"/></linearGradient>
+    <clipPath id="clip"><rect width="400" height="290" rx="20"/></clipPath>
+    <linearGradient id="iib" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#12224a"/><stop offset="1" stop-color="#0a1226"/></linearGradient>
+    <linearGradient id="psb" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".9"/><stop offset=".35" stop-color="#1f2a44"/><stop offset=".65" stop-color="#1f2a44"/><stop offset="1" stop-color="#a78bfa" stop-opacity=".9"/><animateTransform attributeName="gradientTransform" type="rotate" values="0 .5 .5;360 .5 .5" dur="8s" repeatCount="indefinite"/></linearGradient>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="400" height="290" fill="url(#bg)"/>
+    <rect width="400" height="290" fill="url(#glow)"/>
+    <rect class="sheen" width="240" height="290" fill="url(#sh)" transform="skewX(-12)"/>
+  </g>
+  <rect x="1" y="1" width="398" height="288" rx="20" fill="none" stroke="url(#psb)" stroke-width="1.6"/>
+  <g transform="translate(28 28)"><rect width="52" height="52" rx="13" fill="url(#iib)" stroke="#22314f"/><g transform="scale(0.812)"><rect x="10" y="14" width="13" height="38" rx="3" fill="none" stroke="#64748b" stroke-width="1.6"/>
+      <rect x="26" y="14" width="13" height="38" rx="3" fill="none" stroke="#64748b" stroke-width="1.6"/>
+      <rect x="42" y="14" width="13" height="38" rx="3" fill="none" stroke="#64748b" stroke-width="1.6"/>
+      <rect x="12.5" y="30" width="8" height="6" rx="1.5" fill="#3b82f6"/><rect x="44.5" y="20" width="8" height="6" rx="1.5" fill="#a78bfa"/>
+      <rect class="move" x="12.5" y="20" width="8" height="6" rx="1.5" fill="#22d3ee"/></g></g>
+  <text x="28" y="110" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="2" fill="#22d3ee">BUSINESS WORKFLOW</text><text x="28" y="137" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="21" font-weight="800" fill="#e2e8f0">Job Application Tracking</text>
+  <g transform="translate(336 30)">
+        <circle cx="18" cy="18" r="17" fill="#08102a" stroke="#22314f"/>
+        <circle class="orbit" cx="18" cy="18" r="17" fill="none" stroke="#22d3ee" stroke-width="2" stroke-dasharray="18 89" stroke-linecap="round"/>
+        <path d="M13 23 23 13M15.5 13H23V20.5" fill="none" stroke="#e2e8f0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+  <text x="28" y="166" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="15" fill="#94a3b8">Workflow application for tracking job</text><text x="28" y="188" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="15" fill="#94a3b8">applications.</text>
+  <g class="" style="animation-delay:0.00s"><rect x="28" y="204" width="91" height="26" rx="13.0" fill="#0f1a33" stroke="#22314f"/><text x="41" y="221.3" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#cbd5e1">Workflows</text></g><g class="" style="animation-delay:0.45s"><rect x="127" y="204" width="120" height="26" rx="13.0" fill="#0f1a33" stroke="#22314f"/><text x="140" y="221.3" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#cbd5e1">Business apps</text></g>
+  <text x="28" y="262" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="14" font-weight="700" fill="#22d3ee">View repository<tspan class="arrow" dx="6">→</tspan></text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-labelledby="t d">
+  <title id="t">Section divider</title>
+  <desc id="d">Thin animated gradient line.</desc>
+  <style>
+  .pulse{animation:sweep 5s ease-in-out infinite}
+  @keyframes sweep{0%{transform:translateX(-260px)}100%{transform:translateX(1200px)}}
+  .dia{transform-box:fill-box;transform-origin:center;animation:spin 8s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  </style>
+  <defs>
+    <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset=".3" stop-color="#38bdf8" stop-opacity=".6"/><stop offset=".7" stop-color="#6366f1" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient>
+    <linearGradient id="p" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#e0f2fe"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <mask id="gap"><rect width="1200" height="28" fill="#fff"/><rect x="572" y="0" width="56" height="28" fill="#000"/></mask>
+  <g mask="url(#gap)"><rect x="0" y="13" width="1200" height="2" fill="url(#l)"/>
+  <rect class="pulse" x="0" y="12.5" width="260" height="3" rx="1.5" fill="url(#p)"/></g>
+  <rect class="dia" x="594" y="8" width="12" height="12" fill="none" stroke="#22d3ee" stroke-width="2" transform="rotate(45 600 14)"/>
+  <circle cx="600" cy="14" r="2.5" fill="#22d3ee"/>
+</svg>

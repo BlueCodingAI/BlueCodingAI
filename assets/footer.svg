@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="t d">
+  <title id="t">Think boldly. Architect carefully. Build brilliantly.</title>
+  <desc id="d">Footer with animated waves and closing tagline.</desc>
+  <style>
+  
+  .frun{animation:frun 14s linear infinite;filter:drop-shadow(0 0 4px #22d3ee)}
+  @keyframes frun{to{stroke-dashoffset:-2810.8}}
+
+  .w1{animation:wave 9s linear infinite}.w2{animation:wave 14s linear infinite reverse}.w3{animation:wave 20s linear infinite}
+  @keyframes wave{to{transform:translateX(300px)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  </style>
+  <defs>
+    <linearGradient id="tg" gradientUnits="userSpaceOnUse" x1="250" y1="0" x2="950" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#67e8f9"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="700 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="wa" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b82f6" stop-opacity=".55"/><stop offset="1" stop-color="#3b82f6" stop-opacity=".05"/></linearGradient>
+    <linearGradient id="wb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#06b6d4" stop-opacity=".45"/><stop offset="1" stop-color="#06b6d4" stop-opacity=".02"/></linearGradient>
+    <linearGradient id="wc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7c3aed" stop-opacity=".4"/><stop offset="1" stop-color="#7c3aed" stop-opacity=".02"/></linearGradient>
+  </defs>
+  <g clip-path="url(#fclip)">
+  
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/><stop offset="1" stop-color="#0b1430"/>
+    </linearGradient>
+    <linearGradient id="frun" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="fclip"><rect width="1200" height="230" rx="24"/></clipPath>
+    <pattern id="fgrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="230" rx="24" fill="url(#fbg)"/>
+  <rect width="1200" height="230" rx="24" fill="url(#fgrid)"/>
+  <rect x="1" y="1" width="1198" height="228" rx="24" fill="none" stroke="#1f2a44" stroke-width="1.5"/>
+  <rect class="frun" x="1" y="1" width="1198" height="228" rx="24" fill="none" stroke="#22d3ee"
+        stroke-width="2" stroke-linecap="round" stroke-dasharray="280 2530.8"/>
+
+    <g class="w3"><path d="M-300 168 q75.0 -14 150.0 0 t150.0 0 q75.0 -14 150.0 0 t150.0 0 q75.0 -14 150.0 0 t150.0 0 q75.0 -14 150.0 0 t150.0 0 q75.0 -14 150.0 0 t150.0 0 q75.0 -14 150.0 0 t150.0 0 V230 H-300 Z" fill="url(#wc)"/></g>
+    <g class="w2"><path d="M-300 180 q75.0 -18 150.0 0 t150.0 0 q75.0 -18 150.0 0 t150.0 0 q75.0 -18 150.0 0 t150.0 0 q75.0 -18 150.0 0 t150.0 0 q75.0 -18 150.0 0 t150.0 0 q75.0 -18 150.0 0 t150.0 0 V230 H-300 Z" fill="url(#wb)"/></g>
+    <g class="w1"><path d="M-300 194 q75.0 -12 150.0 0 t150.0 0 q75.0 -12 150.0 0 t150.0 0 q75.0 -12 150.0 0 t150.0 0 q75.0 -12 150.0 0 t150.0 0 q75.0 -12 150.0 0 t150.0 0 q75.0 -12 150.0 0 t150.0 0 V230 H-300 Z" fill="url(#wa)"/></g>
+  </g>
+  <g class="tag">
+    <text x="600.0" y="86" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="32" font-weight="800" fill="url(#tg)">Think boldly. Architect carefully. Build brilliantly.</text>
+    <text x="600.0" y="124" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" letter-spacing="3" fill="#94a3b8">THANKS FOR VISITING  ·  BLUE  ·  GITHUB.COM/BLUECODINGAI</text>
+  </g>
+</svg>

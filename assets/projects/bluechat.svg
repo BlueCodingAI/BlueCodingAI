@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="330" viewBox="0 0 600 330" role="img" aria-labelledby="t d">
+  <title id="t">BlueChat — Real-Time Messaging</title>
+  <desc id="d">Real-time web chat with secure login, profile settings, username search, direct conversations and live messaging over WebSockets. Stack: React, Vite, Express, Socket.IO, Prisma, PostgreSQL.</desc>
+  <style>
+  
+  .pins{stroke-dasharray:3 3;animation:pins 1.4s linear infinite}
+  @keyframes pins{to{stroke-dashoffset:-12}}
+  .pulse{transform-box:fill-box;transform-origin:center;animation:pz 2.2s ease-in-out infinite}
+  @keyframes pz{0%,100%{transform:scale(.8);opacity:.7}50%{transform:scale(1.15);opacity:1}}
+  .lay1{animation:l1 3s ease-in-out infinite}.lay2{animation:l2 3s ease-in-out infinite}
+  @keyframes l1{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+  @keyframes l2{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+  .gear{transform-box:fill-box;transform-origin:center;animation:spin 6s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  .bolt{animation:flash 2.4s ease-in-out infinite}
+  @keyframes flash{0%,100%{opacity:.4}40%,60%{opacity:1}}
+  .up{animation:up 1.8s ease-in infinite}
+  @keyframes up{0%{transform:translateY(8px);opacity:0}30%{opacity:1}100%{transform:translateY(-10px);opacity:0}}
+  .dot{animation:dot 1.2s ease-in-out infinite}.d2{animation-delay:.2s}.d3{animation-delay:.4s}
+  @keyframes dot{0%,100%{opacity:.3;transform:translateY(0)}50%{opacity:1;transform:translateY(-2px)}}
+  .lvl{transform-box:fill-box;transform-origin:bottom;animation:lvl .9s ease-in-out infinite alternate}
+  @keyframes lvl{from{transform:scaleY(.25)}to{transform:scaleY(1)}}
+  .draw{stroke-dasharray:100;animation:draw 3.2s ease-in-out infinite}
+  @keyframes draw{0%{stroke-dashoffset:100}55%,85%{stroke-dashoffset:0}100%{stroke-dashoffset:-100}}
+  .move{animation:mv 4s ease-in-out infinite}
+  @keyframes mv{0%,15%{transform:translate(0,0)}40%,60%{transform:translate(16px,8px)}85%,100%{transform:translate(32px,22px)}}
+
+  
+  .b1,.b2,.b3{animation:bub 6s ease-out infinite both}.b2{animation-delay:.9s}.b3{animation-delay:1.8s}
+  @keyframes bub{0%{opacity:0;transform:translateY(6px)}8%,85%{opacity:1;transform:none}95%,100%{opacity:0}}
+  .livedot{animation:blinkg 1.6s ease-in-out infinite}@keyframes blinkg{50%{opacity:.25}}
+  .arrow{animation:nudge 1.6s ease-in-out infinite}
+  @keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
+  .sheen{animation:sheen 7s ease-in-out infinite}
+  @keyframes sheen{0%,60%{transform:translateX(-600px)}100%{transform:translateX(600px)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050816"/><stop offset="1" stop-color="#0b1430"/></linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r="1"><stop offset="0" stop-color="#3b82f6" stop-opacity=".22"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".05"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <linearGradient id="wv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#6366f1"/></linearGradient>
+    <clipPath id="clip"><rect width="600" height="330" rx="22"/></clipPath>
+    <linearGradient id="iib" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#12224a"/><stop offset="1" stop-color="#0a1226"/></linearGradient>
+    <linearGradient id="psb" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".9"/><stop offset=".35" stop-color="#1f2a44"/><stop offset=".65" stop-color="#1f2a44"/><stop offset="1" stop-color="#a78bfa" stop-opacity=".9"/><animateTransform attributeName="gradientTransform" type="rotate" values="0 .5 .5;360 .5 .5" dur="8s" repeatCount="indefinite"/></linearGradient>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="600" height="330" fill="url(#bg)"/>
+    <rect width="600" height="330" fill="url(#glow)"/>
+    <rect class="sheen" width="360" height="330" fill="url(#sh)" transform="skewX(-12)"/>
+  </g>
+  <rect x="1" y="1" width="598" height="328" rx="22" fill="none" stroke="url(#psb)" stroke-width="1.6"/>
+  <g transform="translate(28 28)"><rect width="60" height="60" rx="15" fill="url(#iib)" stroke="#22314f"/><g transform="scale(0.938)"><rect x="10" y="14" width="34" height="22" rx="8" fill="#3b82f6"/><path d="M18 36 16 44 26 36Z" fill="#3b82f6"/>
+      <rect x="24" y="30" width="30" height="20" rx="8" fill="#22d3ee"/><path d="M46 50 48 56 40 50Z" fill="#22d3ee"/>
+      <circle class="dot d1" cx="32" cy="40" r="2.2" fill="#062a33"/><circle class="dot d2" cx="39" cy="40" r="2.2" fill="#062a33"/><circle class="dot d3" cx="46" cy="40" r="2.2" fill="#062a33"/></g></g>
+  <text x="106" y="58" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" letter-spacing="2" fill="#22d3ee">REAL-TIME MESSAGING</text><text x="106" y="88" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="30" font-weight="800" fill="#e2e8f0">BlueChat</text>
+  <g transform="translate(390 28)">
+        <rect width="182" height="96" rx="14" fill="#08102a" stroke="#22314f"/>
+        <g class="b1"><rect x="12" y="12" width="96" height="20" rx="10" fill="#1e3a8a"/><rect x="22" y="19" width="60" height="6" rx="3" fill="#93c5fd"/></g>
+        <g class="b2"><rect x="74" y="38" width="96" height="20" rx="10" fill="#0e7490"/><rect x="84" y="45" width="70" height="6" rx="3" fill="#a5f3fc"/></g>
+        <g class="b3"><rect x="12" y="64" width="54" height="20" rx="10" fill="#1e3a8a"/>
+          <circle class="dot" cx="27" cy="74" r="3" fill="#93c5fd"/><circle class="dot d2" cx="39" cy="74" r="3" fill="#93c5fd"/><circle class="dot d3" cx="51" cy="74" r="3" fill="#93c5fd"/></g>
+        <circle class="livedot" cx="168" cy="14" r="4" fill="#22c55e"/>
+      </g>
+  <text x="28" y="140" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="17" fill="#94a3b8">Real-time web chat with secure login, profile</text><text x="28" y="166" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="17" fill="#94a3b8">settings, username search, direct conversations and</text><text x="28" y="191" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="17" fill="#94a3b8">live messaging over WebSockets.</text>
+  <g class="" style="animation-delay:0.00s"><rect x="28" y="230" width="65" height="28" rx="14.0" fill="#0f1a33" stroke="#22314f"/><text x="41" y="248.7" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#cbd5e1">React</text></g><g class="" style="animation-delay:0.45s"><rect x="101" y="230" width="57" height="28" rx="14.0" fill="#0f1a33" stroke="#22314f"/><text x="114" y="248.7" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#cbd5e1">Vite</text></g><g class="" style="animation-delay:0.90s"><rect x="166" y="230" width="81" height="28" rx="14.0" fill="#0f1a33" stroke="#22314f"/><text x="179" y="248.7" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#cbd5e1">Express</text></g><g class="" style="animation-delay:1.35s"><rect x="255" y="230" width="96" height="28" rx="14.0" fill="#0f1a33" stroke="#22314f"/><text x="268" y="248.7" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#cbd5e1">Socket.IO</text></g><g class="" style="animation-delay:1.80s"><rect x="359" y="230" width="73" height="28" rx="14.0" fill="#0f1a33" stroke="#22314f"/><text x="372" y="248.7" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#cbd5e1">Prisma</text></g><g class="" style="animation-delay:2.25s"><rect x="440" y="230" width="104" height="28" rx="14.0" fill="#0f1a33" stroke="#22314f"/><text x="453" y="248.7" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#cbd5e1">PostgreSQL</text></g>
+  <text x="28" y="302" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="15" font-weight="700" fill="#22d3ee">View repository<tspan class="arrow" dx="6">→</tspan></text>
+</svg>
